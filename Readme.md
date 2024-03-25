@@ -1,0 +1,1 @@
+this is learning project to gain industry oriented knowledge of backend
