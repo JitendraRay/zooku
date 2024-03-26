@@ -4,3 +4,7 @@ create a .gitkeep file
 create a .env file
 download nodemon dev dependency
 in package.json change type commonjs to module
+create these folders controllers db middlewares models routes utils
+
+
+always wrap in try and catch or use promise while connecting db.
