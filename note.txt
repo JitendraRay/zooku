@@ -1,1 +1,6 @@
 npm init > for initializing a js project
+create a .gitignore file 
+create a .gitkeep file
+create a .env file
+download nodemon dev dependency
+in package.json change type commonjs to module
